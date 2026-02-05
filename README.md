@@ -15,8 +15,8 @@ Here is my attempt to learn javascript
 
 ### Coding Tips
 - You can check a variable type with ``typeof`` e.g. ``console.log(typeof some_variable)``
-
-
+- Use curly brackets to declare an *object literal*, e.g. ``let person = { name: 'bartu', age: 26 };``
+- Create an array literal with empty square brackets, e.g. ``let some_array = [];``
 ### Tool Tips
 - Inside VSCode, if you type "!" and press tab on an html file, it fills the boilerplate.
 - Install Live Server in VSCode and right click on an html file, select "open with live server"
